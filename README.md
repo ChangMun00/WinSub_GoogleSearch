@@ -8,7 +8,10 @@ WinSub_GoogleSearch
 ## 1.2. 내용물
 해당페이지는 구글폰트 / 부트스트랩이 들어있습니다.
 
-## 1.3. 라이센스 
+## 1.3. 미리보기
+[WinSub Google Search](https://winsub.kr/searchto/#)
+
+## 1.4. 라이센스 
 MIT라이센스 입니다. 누구나 사용이 가능하며 마음대로 사용하세요. 
 
 MIT License
